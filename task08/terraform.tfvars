@@ -1,4 +1,4 @@
-location = "Central US"
+location = "westus"
 
 name_prefix = "cmtr-5uxy4opu-mod8"
 
