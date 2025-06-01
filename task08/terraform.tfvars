@@ -8,7 +8,7 @@ platform_os               = "Linux"
 dockerfile_path           = "Dockerfile"
 docker_build_context_path = "https://github.com/adeeb-epam/Terraform5#main:task08/application"
 docker_image_name         = "cmtr-5uxy4opu-mod8-app"
-context_access_token      = "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"
+context_access_token      = "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"
 
 aci_os_type          = "Linux"
 aci_container_name   = "abc-aci-container1"
