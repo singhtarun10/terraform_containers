@@ -1,4 +1,4 @@
-location = "westus"
+location = "centralus"
 
 name_prefix = "cmtr-5uxy4opu-mod8"
 
